@@ -28,7 +28,7 @@ const userProfile = [
     "Godfred Fianu", // User name
     36, // Age
     true, // Subscription status
-    "Behtlehem, PA", // User's location
+    "Bethlehem, PA", // User's location
     ["Reading", "Coding", "Research"] // User's hobbies
 ];
 // Task 2: Access and Log Profile Details
